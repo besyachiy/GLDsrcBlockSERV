@@ -3,7 +3,7 @@
 $fw_rulename = "GoldSRC Fake IP Blocklist"
 
 Write-Host ("===== GoldSRC Fake IP Blocklister =====")
-Write-Host ("- GitHub project: https://github.com/Ch0wW/goldsrc-fake-servers-firewall")
+Write-Host ("- GitHub project: https://github.com/besyachiy/GLDsrcBlockSERV")
 Write-Host ("")
 Write-Host ("")
 
